@@ -1,0 +1,7 @@
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\AmbienteM01\M01A02C\bin\Debug\M01A02C.exe.config
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\AmbienteM01\M01A02C\bin\Debug\M01A02C.exe
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\AmbienteM01\M01A02C\bin\Debug\M01A02C.pdb
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\AmbienteM01\M01A02C\obj\Debug\M01A02C.csproj.AssemblyReference.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\AmbienteM01\M01A02C\obj\Debug\M01A02C.csproj.CoreCompileInputs.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\AmbienteM01\M01A02C\obj\Debug\M01A02C.exe
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\AmbienteM01\M01A02C\obj\Debug\M01A02C.pdb
