@@ -10,8 +10,16 @@ namespace M01A06
     {
         static void Main(string[] args)
         {
-            string escola = "Estudonauta";
-            Console.WriteLine("Eu estudo no escola "+escola);
+            const string ESCOLA = "Estudonauta";
+            const float PI = 3.1415f;
+
+            //escola = "CursoemVideo"; Comando dá erro!
+
+            Console.WriteLine("Eu estudo no escola "+ ESCOLA);
+            Console.WriteLine("O valor de PI é " + PI + "...");
+            Console.WriteLine("O valor OFICIAL de PI é "+ Math.PI);
+            Console.WriteLine("O tipo de PI no meu programa é "+PI.GetType());
+            Console.WriteLine("O tipo de PI em Math é "+ Math.PI.GetType());
             Console.ReadKey();  
         }
     }
