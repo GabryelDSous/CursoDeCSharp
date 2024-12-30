@@ -1,0 +1,15 @@
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\obj\Debug\M01A12D.csproj.AssemblyReference.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\obj\Debug\MainWindow.g.cs
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\obj\Debug\App.g.cs
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\obj\Debug\M01A12D_MarkupCompile.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\obj\Debug\M01A12D_MarkupCompile.lref
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\bin\Debug\M01A12D.exe.config
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\bin\Debug\M01A12D.exe
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\bin\Debug\M01A12D.pdb
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\obj\Debug\MainWindow.baml
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\obj\Debug\M01A12D.g.resources
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\obj\Debug\M01A12D.Properties.Resources.resources
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\obj\Debug\M01A12D.csproj.GenerateResource.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\obj\Debug\M01A12D.csproj.CoreCompileInputs.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\obj\Debug\M01A12D.exe
+C:\Users\Gabryel\Documents\CursoEstudonauta\CursoDeCSharp\CusoDeC#\AmbienteM01\M01A12D\obj\Debug\M01A12D.pdb

@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29891162-8481-4570-B77A-1D30DB258010}|M01A08F\\M01A08F.csproj|c:\\users\\gabryel\\documents\\cursoestudonauta\\cursodecsharp\\cusodec#\\ambientem01\\m01a08f\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29891162-8481-4570-B77A-1D30DB258010}|M01A08F\\M01A08F.csproj|solutionrelative:m01a08f\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29891162-8481-4570-B77A-1D30DB258010}|M01A08F\\M01A08F.csproj|c:\\users\\gabryel\\documents\\cursoestudonauta\\cursodecsharp\\cusodec#\\ambientem01\\m01a08f\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{29891162-8481-4570-B77A-1D30DB258010}|M01A08F\\M01A08F.csproj|solutionrelative:m01a08f\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{42E2A8F3-D60C-4F74-B1C7-BDE3A91EEAAF}|M01A13A\\M01A13A.csproj|c:\\users\\gabryel\\documents\\cursoestudonauta\\cursodecsharp\\cusodec#\\ambientem01\\m01a13a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E2A8F3-D60C-4F74-B1C7-BDE3A91EEAAF}|M01A13A\\M01A13A.csproj|solutionrelative:m01a13a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM01\\M01A08F\\Form1.cs",
-              "RelativeDocumentMoniker": "M01A08F\\Form1.cs",
-              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM01\\M01A08F\\Form1.cs",
-              "RelativeToolTip": "M01A08F\\Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBUAAAARAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM01\\M01A13A\\Program.cs",
+              "RelativeDocumentMoniker": "M01A13A\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM01\\M01A13A\\Program.cs",
+              "RelativeToolTip": "M01A13A\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T23:50:50.029Z",
+              "WhenOpened": "2024-12-27T19:44:52.733Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM01\\M01A08F\\Form1.cs",
-              "RelativeDocumentMoniker": "M01A08F\\Form1.cs",
-              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM01\\M01A08F\\Form1.cs [Design]",
-              "RelativeToolTip": "M01A08F\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T23:48:15.089Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
