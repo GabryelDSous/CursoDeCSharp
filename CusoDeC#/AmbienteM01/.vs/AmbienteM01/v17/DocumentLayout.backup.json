@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM01\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{42E2A8F3-D60C-4F74-B1C7-BDE3A91EEAAF}|M01A13A\\M01A13A.csproj|c:\\users\\gabryel\\documents\\cursoestudonauta\\cursodecsharp\\cusodec#\\ambientem01\\m01a13a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42E2A8F3-D60C-4F74-B1C7-BDE3A91EEAAF}|M01A13A\\M01A13A.csproj|solutionrelative:m01a13a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM01\\M01A13A\\Program.cs",
-              "RelativeDocumentMoniker": "M01A13A\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM01\\M01A13A\\Program.cs",
-              "RelativeToolTip": "M01A13A\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T19:44:52.733Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

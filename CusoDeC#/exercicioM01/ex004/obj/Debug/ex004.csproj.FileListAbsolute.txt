@@ -1,0 +1,10 @@
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex004\bin\Debug\ex004.exe.config
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex004\bin\Debug\ex004.exe
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex004\bin\Debug\ex004.pdb
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex004\obj\Debug\ex004.csproj.AssemblyReference.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex004\obj\Debug\ex004.Form1.resources
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex004\obj\Debug\ex004.Properties.Resources.resources
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex004\obj\Debug\ex004.csproj.GenerateResource.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex004\obj\Debug\ex004.csproj.CoreCompileInputs.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex004\obj\Debug\ex004.exe
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex004\obj\Debug\ex004.pdb

@@ -1,0 +1,15 @@
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\bin\Debug\ex008.exe.config
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\bin\Debug\ex008.exe
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\bin\Debug\ex008.pdb
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\obj\Debug\ex008.csproj.AssemblyReference.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\obj\Debug\MainWindow.g.cs
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\obj\Debug\App.g.cs
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\obj\Debug\ex008_MarkupCompile.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\obj\Debug\ex008_MarkupCompile.lref
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\obj\Debug\MainWindow.baml
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\obj\Debug\ex008.g.resources
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\obj\Debug\ex008.Properties.Resources.resources
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\obj\Debug\ex008.csproj.GenerateResource.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\obj\Debug\ex008.csproj.CoreCompileInputs.cache
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\obj\Debug\ex008.exe
+C:\Users\Gabryel\Documents\CursoEstudonauta\CusoDeC#\exercicioM01\ex008\obj\Debug\ex008.pdb
