@@ -19,8 +19,9 @@ namespace M02Ex001
             Console.WriteLine($"Calculando -{op1} = {-op1}"); // negação aritmética
             Console.WriteLine($"Calculando {op1} + {op2} = {op1 + op2}"); //  adição
             Console.WriteLine($"Calculando {op1} - {op2} = {op1 - op2}"); // subtração
-            Console.WriteLine($"Calculando {op1} x {op2} = {op1*op2}"); // multiplicação
-            Console.WriteLine($"Calculando {op1} ÷ {op2} = {op1/op2} **DIVISÃO INTEIRA**"); // divisão (inteira)
+            Console.WriteLine($"Calculando {op1} x {op2} = {op1 * op2}"); // multiplicação
+            Console.WriteLine($"Calculando {op1} ÷ {op2} = {op1 / op2} (divisão inteira)"); // divisão (inteira)
+            Console.WriteLine($"Calculando {op1} ÷ {op2} = {(float)op1 / op2} (divisão real)"); // divisão (real)
             Console.WriteLine($"Calculando {op1} resto {op2} = {op1%op2}"); // resto da divisão
             Console.ReadKey();
         }

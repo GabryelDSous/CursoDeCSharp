@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5B2C9DC-34CB-4155-A98C-0F75C09D3B98}|M02Ex002\\M02Ex002.csproj|c:\\users\\gabryel\\documents\\cursoestudonauta\\cursodecsharp\\cusodec#\\ambientem02\\m02ex002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5B2C9DC-34CB-4155-A98C-0F75C09D3B98}|M02Ex002\\M02Ex002.csproj|solutionrelative:m02ex002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD897615-2CFE-474A-918C-FAAA72E46A4E}|m02ex001\\M02Ex001.csproj|c:\\users\\gabryel\\documents\\cursoestudonauta\\cursodecsharp\\cusodec#\\ambientem02\\m02ex001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD897615-2CFE-474A-918C-FAAA72E46A4E}|m02ex001\\M02Ex001.csproj|solutionrelative:m02ex001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B90BBD21-250A-4FBD-BE39-182832E6E148}|M02Ex003\\M02Ex003.csproj|c:\\users\\gabryel\\documents\\cursoestudonauta\\cursodecsharp\\cusodec#\\ambientem02\\m02ex003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBD21-250A-4FBD-BE39-182832E6E148}|M02Ex003\\M02Ex003.csproj|solutionrelative:m02ex003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex002\\Program.cs",
-              "RelativeDocumentMoniker": "M02Ex002\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex002\\Program.cs",
-              "RelativeToolTip": "M02Ex002\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex003\\Program.cs",
+              "RelativeDocumentMoniker": "M02Ex003\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex003\\Program.cs",
+              "RelativeToolTip": "M02Ex003\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T18:37:01.385Z",
+              "WhenOpened": "2025-01-02T23:26:24.966Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex001\\Program.cs",
-              "RelativeDocumentMoniker": "M02Ex001\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursoEstudonauta\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex001\\Program.cs",
-              "RelativeToolTip": "M02Ex001\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T16:18:23.157Z"
             }
           ]
         }
