@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32F154C3-1296-4DDA-969B-27816A0D9AAC}|M02Ex006B\\M02Ex006B.csproj|c:\\users\\gabryel\\documents\\cursosdeprograma\u00E7\u00E3o\\cursodecsharp\\cusodec#\\ambientem02\\m02ex006b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F154C3-1296-4DDA-969B-27816A0D9AAC}|M02Ex006B\\M02Ex006B.csproj|solutionrelative:m02ex006b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AE7E1D-D6BF-489A-A87D-3583D5E8943A}|M02Ex006\\M02Ex006.csproj|c:\\users\\gabryel\\documents\\cursosdeprograma\u00E7\u00E3o\\cursodecsharp\\cusodec#\\ambientem02\\m02ex006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AE7E1D-D6BF-489A-A87D-3583D5E8943A}|M02Ex006\\M02Ex006.csproj|solutionrelative:m02ex006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C4EFD40E-73BE-41D8-AE33-B29E82BDB2C0}|M02Ex005\\M02Ex005.csproj|c:\\users\\gabryel\\documents\\cursosdeprograma\u00E7\u00E3o\\cursodecsharp\\cusodec#\\ambientem02\\m02ex005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4EFD40E-73BE-41D8-AE33-B29E82BDB2C0}|M02Ex005\\M02Ex005.csproj|solutionrelative:m02ex005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex006B\\Program.cs",
+              "RelativeDocumentMoniker": "M02Ex006B\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex006B\\Program.cs",
+              "RelativeToolTip": "M02Ex006B\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:45:42.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex006\\Program.cs",
+              "RelativeDocumentMoniker": "M02Ex006\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex006\\Program.cs",
+              "RelativeToolTip": "M02Ex006\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:26:44.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex005\\Program.cs",
               "RelativeDocumentMoniker": "M02Ex005\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex005\\Program.cs*",
-              "RelativeToolTip": "M02Ex005\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex005\\Program.cs",
+              "RelativeToolTip": "M02Ex005\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T22:09:35.948Z",
               "EditorCaption": ""

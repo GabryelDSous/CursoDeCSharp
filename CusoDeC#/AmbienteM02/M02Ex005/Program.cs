@@ -11,7 +11,7 @@ namespace M02Ex005
             Console.WriteLine($"Não {p} = {!p}"); // Oerador Logico NÃO
             Console.WriteLine($"{p} e {q} = {p&&q}"); // OpL E
             Console.WriteLine($"{p} ou {q} = {p||q}"); // OpL OU
-
+            
             Console.ReadKey();
         }
     }
