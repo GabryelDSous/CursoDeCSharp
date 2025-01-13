@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C1CEFC3-B9B7-43D4-A8CD-A84961624ED3}|M02Ex008\\M02Ex008.csproj|c:\\users\\gabryel\\documents\\cursosdeprograma\u00E7\u00E3o\\cursodecsharp\\cusodec#\\ambientem02\\m02ex008\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1CEFC3-B9B7-43D4-A8CD-A84961624ED3}|M02Ex008\\M02Ex008.csproj|solutionrelative:m02ex008\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4B57D7D-DC0F-4350-82A6-74327C625294}|M02Ex009\\M02Ex009.csproj|c:\\users\\gabryel\\documents\\cursosdeprograma\u00E7\u00E3o\\cursodecsharp\\cusodec#\\ambientem02\\m02ex009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B57D7D-DC0F-4350-82A6-74327C625294}|M02Ex009\\M02Ex009.csproj|solutionrelative:m02ex009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C15B4D80-7B40-4852-A25D-ADD8971961EE}|M02Ex007\\M02Ex007.csproj|c:\\users\\gabryel\\documents\\cursosdeprograma\u00E7\u00E3o\\cursodecsharp\\cusodec#\\ambientem02\\m02ex007\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C15B4D80-7B40-4852-A25D-ADD8971961EE}|M02Ex007\\M02Ex007.csproj|solutionrelative:m02ex007\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F154C3-1296-4DDA-969B-27816A0D9AAC}|M02Ex006B\\M02Ex006B.csproj|c:\\users\\gabryel\\documents\\cursosdeprograma\u00E7\u00E3o\\cursodecsharp\\cusodec#\\ambientem02\\m02ex006b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F154C3-1296-4DDA-969B-27816A0D9AAC}|M02Ex006B\\M02Ex006B.csproj|solutionrelative:m02ex006b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67DCA8EA-481F-4906-9E38-3A9F3D55C9A9}|M02Ex010\\M02Ex010.csproj|c:\\users\\gabryel\\documents\\cursosdeprograma\u00E7\u00E3o\\cursodecsharp\\cusodec#\\ambientem02\\m02ex010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DCA8EA-481F-4906-9E38-3A9F3D55C9A9}|M02Ex010\\M02Ex010.csproj|solutionrelative:m02ex010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex008\\Program.cs",
-              "RelativeDocumentMoniker": "M02Ex008\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex008\\Program.cs",
-              "RelativeToolTip": "M02Ex008\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T22:56:08.171Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex007\\Program.cs",
-              "RelativeDocumentMoniker": "M02Ex007\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex007\\Program.cs",
-              "RelativeToolTip": "M02Ex007\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex010\\Program.cs",
+              "RelativeDocumentMoniker": "M02Ex010\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex010\\Program.cs",
+              "RelativeToolTip": "M02Ex010\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T22:46:21.393Z",
+              "WhenOpened": "2025-01-13T20:54:16.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex006B\\Program.cs",
-              "RelativeDocumentMoniker": "M02Ex006B\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex006B\\Program.cs",
-              "RelativeToolTip": "M02Ex006B\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex009\\Program.cs",
+              "RelativeDocumentMoniker": "M02Ex009\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabryel\\Documents\\CursosDePrograma\u00E7\u00E3o\\CursoDeCSharp\\CusoDeC#\\AmbienteM02\\M02Ex009\\Program.cs",
+              "RelativeToolTip": "M02Ex009\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T22:44:46.147Z",
+              "WhenOpened": "2025-01-13T20:44:38.234Z",
               "EditorCaption": ""
             }
           ]
