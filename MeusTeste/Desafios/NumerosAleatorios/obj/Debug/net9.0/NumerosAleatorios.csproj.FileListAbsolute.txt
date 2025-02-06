@@ -1,0 +1,15 @@
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\obj\Debug\net9.0\NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\obj\Debug\net9.0\NumerosAleatorios.AssemblyInfoInputs.cache
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\obj\Debug\net9.0\NumerosAleatorios.AssemblyInfo.cs
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\obj\Debug\net9.0\NumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\obj\Debug\net9.0\NumerosAleatorios.sourcelink.json
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\bin\Debug\net9.0\NumerosAleatorios.exe
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\bin\Debug\net9.0\NumerosAleatorios.deps.json
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\bin\Debug\net9.0\NumerosAleatorios.runtimeconfig.json
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\bin\Debug\net9.0\NumerosAleatorios.dll
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\bin\Debug\net9.0\NumerosAleatorios.pdb
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\obj\Debug\net9.0\NumerosAleatorios.dll
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\obj\Debug\net9.0\refint\NumerosAleatorios.dll
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\obj\Debug\net9.0\NumerosAleatorios.pdb
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\obj\Debug\net9.0\NumerosAleatorios.genruntimeconfig.cache
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\MeusTeste\Desafios\NumerosAleatorios\obj\Debug\net9.0\ref\NumerosAleatorios.dll
