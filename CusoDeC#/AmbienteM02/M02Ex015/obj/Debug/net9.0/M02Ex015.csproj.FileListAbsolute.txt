@@ -1,0 +1,15 @@
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\bin\Debug\net9.0\M02Ex015.exe
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\bin\Debug\net9.0\M02Ex015.deps.json
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\bin\Debug\net9.0\M02Ex015.runtimeconfig.json
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\bin\Debug\net9.0\M02Ex015.dll
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\bin\Debug\net9.0\M02Ex015.pdb
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\obj\Debug\net9.0\M02Ex015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\obj\Debug\net9.0\M02Ex015.AssemblyInfoInputs.cache
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\obj\Debug\net9.0\M02Ex015.AssemblyInfo.cs
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\obj\Debug\net9.0\M02Ex015.csproj.CoreCompileInputs.cache
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\obj\Debug\net9.0\M02Ex015.sourcelink.json
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\obj\Debug\net9.0\M02Ex015.dll
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\obj\Debug\net9.0\refint\M02Ex015.dll
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\obj\Debug\net9.0\M02Ex015.pdb
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\obj\Debug\net9.0\M02Ex015.genruntimeconfig.cache
+C:\Users\Gabryel\Documents\CursosDeProgramação\CursoDeCSharp\CusoDeC#\AmbienteM02\M02Ex015\obj\Debug\net9.0\ref\M02Ex015.dll
